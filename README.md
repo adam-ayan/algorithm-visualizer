@@ -1,6 +1,6 @@
-Note: This project has been recently moved from my local machine and will be updated regularly.
+Note: This project is ongoing. It is just recently imported here from my local machine. Additional updates are coming!
 
-Algorithm Visualization Web App
+# Algorithm Visualization Web App
 
 A web app that visualizes algorithms like sorting, graph traversals, and dynamic programming with interactive animations and GPT-generated explanations. Users can enter custom data, see step-by-step execution, and compare different algorithms. The app is designed to make algorithm behavior easy to understand and experiment with.
 
